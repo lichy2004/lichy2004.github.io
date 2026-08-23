@@ -74,6 +74,12 @@ a:hover {
   text-decoration: none;
 }
 
+/* Keep large source images from ever determining the page width. */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 body,
 td,
 th,
@@ -108,12 +114,13 @@ h2 {
 
 .research-thumbnail {
   width: 100%;
+  max-width: 220px;
+  margin: 0 auto;
 }
 
 .research-thumbnail img {
   display: block;
   width: 100%;
-  height: auto;
 }
 
 .experience-logo-cell {
@@ -134,7 +141,6 @@ h2 {
 .experience-logo img {
   display: block;
   width: 100%;
-  height: auto;
   margin: 0 auto;
 }
 
