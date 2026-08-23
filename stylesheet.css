@@ -102,6 +102,49 @@ h2 {
   font-weight: 700;
 }
 
+.author-link {
+  color: #000;
+}
+
+.research-thumbnail {
+  width: 100%;
+}
+
+.research-thumbnail img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.experience-logo-cell {
+  width: 17%;
+  padding: 8px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.experience-logo {
+  width: 100%;
+  max-width: 100px;
+  padding: 0 5%;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.experience-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.experience-content {
+  width: 83%;
+  padding: 4px 4px 4px 16px;
+  vertical-align: middle;
+  line-height: 0.4;
+}
+
 .name {
   padding-top: 20px;
   margin: 0;
