@@ -1,6 +1,6 @@
 // Edit author URLs here. Publication entries only need a matching data-author key.
 window.AUTHOR_LINKS = Object.freeze({
-  'qi-wang': 'https://scholar.google.com/scholar?q=%22Qi+Wang%22+%22Towards+the+Harness+of+Embodied+Agents%22',
+  'qi-wang': 'https://qiwang233.github.io/',
   'tianyi-wang': 'https://wangskyone.github.io/',
   'hongdi-yang': 'https://github.com/Young2647',
   'chengyang-li': 'https://lichy2004.github.io/',
