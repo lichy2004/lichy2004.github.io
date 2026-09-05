@@ -108,6 +108,20 @@ h2 {
   font-weight: 700;
 }
 
+.research-title {
+  font-weight: 400;
+}
+
+.research-title strong {
+  font-weight: 700;
+}
+
+.corresponding-mark {
+  font-size: 0.65em;
+  line-height: 0;
+  vertical-align: super;
+}
+
 .author-link {
   color: #000;
 }
