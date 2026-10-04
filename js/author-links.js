@@ -5,7 +5,7 @@ window.AUTHOR_LINKS = Object.freeze({
   'hongdi-yang': 'https://github.com/Young2647',
   'chengyang-li': 'https://lichy2004.github.io/',
   'shikun-ban': 'https://scholar.google.com/citations?user=cVQDX5UAAAAJ&hl=en',
-  'yurun-chen': 'https://scholar.google.com/scholar?q=%22Yurun+Chen%22+robotics',
+  'yurun-chen': 'https://scholar.google.com/citations?hl=en&user=k8fKlQ0AAAAJ&view_op=list_works&sortby=pubdate',
   'yizhong-ge': 'https://scholar.google.com/scholar?q=%22Yizhong+Ge%22+robotics',
   'jason-qin': 'https://asonin.github.io/',
   'chengtai-li': 'https://scholar.google.com/citations?user=vYL7B1UAAAAJ&hl=en',
